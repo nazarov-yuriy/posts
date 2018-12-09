@@ -29,11 +29,38 @@ take 5 minutes to learn, others would take up months, but this is exactly what
 you need to know and understand. You are welcome to suggest corrections 
 and additions.
 
-1. **C++**, standard, Comeau, 1TBS, Stroustrup/D&E/Josuttis/Vandevoorde, 
-Dewhurst/Mayers/Sutter, RAII, rule of three, exception-safety, 
-Alexandrescu/Abrahams-Gurtovoy, type erasure, CRTP, NVI, SFINAE, Koenig lookup, 
-Duff's device, Boost, Siek-Lumsdaine/Karlsson, TR1, TR on C++ performance, ABI,
-Stepanov test, forwarding problem, SPECS, C++0x
+1. [**C++**](https://en.wikipedia.org/wiki/C%2B%2B),
+[standard](https://www.iso.org/standard/25845.html),
+[Comeau](https://en.wikipedia.org/wiki/Comeau_C/C%2B%2B),
+[1TBS](https://en.wikipedia.org/wiki/Indentation_style#Variant:_1TBS_(OTBS)),
+[Stroustrup](http://www.stroustrup.com/4th.html) /
+[D&E](http://www.stroustrup.com/dne.html) /
+[Josuttis](http://www.josuttis.com/libbook/) /
+[Vandevoorde](https://www.pearson.com/us/higher-education/product/Vandevoorde-C-Templates-The-Complete-Guide/9780201734843.html) , 
+[Dewhurst](https://www.pearson.com/us/higher-education/program/Dewhurst-C-Common-Knowledge-Essential-Intermediate-Programming/PGM209409.html) /
+[Mayers](https://books.google.com/books/about/Effective_C++.html?id=eQq9AQAAQBAJ) /
+[Sutter](https://en.wikipedia.org/wiki/Herb_Sutter),
+[RAII](https://en.wikipedia.org/wiki/Resource_acquisition_is_initialization),
+[rule of three](https://en.wikipedia.org/wiki/Rule_of_three_(C%2B%2B_programming\)),
+[exception-safety](https://en.wikipedia.org/wiki/Exception_safety), 
+[Alexandrescu](https://en.wikipedia.org/wiki/Andrei_Alexandrescu#Bibliography) /
+[Abrahams-Gurtovoy](https://discourse-production.oss-cn-shanghai.aliyuncs.com/original/3X/0/0/00329b35761ebb8cefec388d4423481dc836486f.pdf),
+[type erasure](https://en.wikipedia.org/wiki/Type_erasure),
+[CRTP](https://en.wikipedia.org/wiki/Curiously_recurring_template_pattern),
+[NVI](https://en.wikipedia.org/wiki/Non-virtual_interface_pattern),
+[SFINAE](https://en.wikipedia.org/wiki/Substitution_failure_is_not_an_error),
+[Koenig lookup](https://en.wikipedia.org/wiki/Argument-dependent_name_lookup), 
+[Duff's device](https://en.wikipedia.org/wiki/Duff%27s_device),
+[Boost](https://en.wikipedia.org/wiki/Boost_(C%2B%2B_libraries\)),
+[Siek-Lumsdaine](https://dl.acm.org/citation.cfm?id=1167499) /
+[Karlsson](http://www.xwood.net/docs/pdf/Beyond%20the%20C++%20Standard%20Library_201611291716.pdf),
+[TR1](https://en.wikipedia.org/wiki/C%2B%2B_Technical_Report_1),
+[TR on C++ performance](http://www.open-std.org/jtc1/sc22/wg21/docs/18015.html),
+[ABI](https://en.wikipedia.org/wiki/Application_binary_interface),
+[Stepanov test](http://www.open-std.org/jtc1/sc22/wg21/docs/D_3.cpp),
+[forwarding problem](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2002/n1385.htm),
+[SPECS](http://users.monash.edu/~damian/papers/HTML/ModestProposal.html),
+[C++0x](https://www.iso.org/standard/38110.html)
 
 2. **Compilers**, standard implementation differences, 
 implementation limitations, intrinsics, 
