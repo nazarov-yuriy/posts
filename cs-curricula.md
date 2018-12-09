@@ -32,7 +32,7 @@ and additions.
 1. [**C++**](https://en.wikipedia.org/wiki/C%2B%2B),
 [standard](https://www.iso.org/standard/25845.html),
 [Comeau](https://en.wikipedia.org/wiki/Comeau_C/C%2B%2B),
-[1TBS](https://en.wikipedia.org/wiki/Indentation_style#Variant:_1TBS_(OTBS)),
+[1TBS](https://en.wikipedia.org/wiki/Indentation_style#Variant:_1TBS_%28OTBS%29),
 [Stroustrup](http://www.stroustrup.com/4th.html) /
 [D&E](http://www.stroustrup.com/dne.html) /
 [Josuttis](http://www.josuttis.com/libbook/) /
@@ -41,7 +41,7 @@ and additions.
 [Mayers](https://books.google.com/books/about/Effective_C++.html?id=eQq9AQAAQBAJ) /
 [Sutter](https://en.wikipedia.org/wiki/Herb_Sutter),
 [RAII](https://en.wikipedia.org/wiki/Resource_acquisition_is_initialization),
-[rule of three](https://en.wikipedia.org/wiki/Rule_of_three_(C%2B%2B_programming\)),
+[rule of three](https://en.wikipedia.org/wiki/Rule_of_three_%28C%2B%2B_programming%29),
 [exception-safety](https://en.wikipedia.org/wiki/Exception_safety), 
 [Alexandrescu](https://en.wikipedia.org/wiki/Andrei_Alexandrescu#Bibliography) /
 [Abrahams-Gurtovoy](https://discourse-production.oss-cn-shanghai.aliyuncs.com/original/3X/0/0/00329b35761ebb8cefec388d4423481dc836486f.pdf),
@@ -51,7 +51,7 @@ and additions.
 [SFINAE](https://en.wikipedia.org/wiki/Substitution_failure_is_not_an_error),
 [Koenig lookup](https://en.wikipedia.org/wiki/Argument-dependent_name_lookup), 
 [Duff's device](https://en.wikipedia.org/wiki/Duff%27s_device),
-[Boost](https://en.wikipedia.org/wiki/Boost_(C%2B%2B_libraries\)),
+[Boost](https://en.wikipedia.org/wiki/Boost_%28C%2B%2B_libraries%29),
 [Siek-Lumsdaine](https://dl.acm.org/citation.cfm?id=1167499) /
 [Karlsson](http://www.xwood.net/docs/pdf/Beyond%20the%20C++%20Standard%20Library_201611291716.pdf),
 [TR1](https://en.wikipedia.org/wiki/C%2B%2B_Technical_Report_1),
